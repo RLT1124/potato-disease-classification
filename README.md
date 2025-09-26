@@ -1,4 +1,4 @@
- Potato Disease Classification
+## Potato Disease Classification
 
 A deep learning project for classifying potato leaf diseases using convolutional neural networks (CNN).
 
@@ -16,5 +16,6 @@ This project aims to classify potato leaf diseases into three categories:
 - Model evaluation and visualization
 - Web application for predictions
 - REST API endpoint
+
 
  
